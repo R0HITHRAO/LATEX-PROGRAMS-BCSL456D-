@@ -22,5 +22,7 @@ To run and compile the `.tex` files locally, you will need a LaTeX distribution 
 *   [Overleaf](https://www.overleaf.com/) (Cloud-based, no installation required)
 
 Clone this repository to your local machine:
+(make sure to add your username in the below URL)
    ```bash
+
    git clone [https://github.com/your-username/LATEX-PROGRAMS-BCSL456D.git](https://github.com/your-username/LATEX-PROGRAMS-BCSL456D.git)
